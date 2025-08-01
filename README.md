@@ -1,5 +1,8 @@
-## 1. How to Revers string
+## Exercise : 1
 
+How to Revers string. Example : Hello = olleH
+
+### Code
 
 ```python
 text = 'Hello Baby'
@@ -12,6 +15,8 @@ print(reverseText)
 
 # Output : ybaB olleH
 ```
+
+### Code
 
 ```python
 text = 'Hello Baby'
@@ -26,7 +31,9 @@ print(reverseText)
 # Output : ybaB olleH
 ```
 
-## 2. Find index of odd
+## Exercise : 2
+
+Find index of odd. Example : [5, 7, 8, 4, 3] = [0, 1, 4 ]
 
 ```python
 arr = [5, 7, 8, 4, 3]
@@ -39,7 +46,11 @@ print(indexOfOdd)
 # Output : [0, 1, 4]
 ```
 
-## 3. Average of number in list
+## Exercise : 3
+
+Average of number in list. Example : [5, 7, 8, 4, 3] = 5.4  we take total of number / total of index.
+
+### Code
 
 ```python
 arr = [5, 7, 8, 4, 3]
@@ -54,7 +65,11 @@ print(average)
 # Output : 5.4
 ```
 
-## 4. Loop in Dictionary
+## Exercise : 4
+
+Loop in Dictionary. Example : 
+
+### Code
 
 ```python
 arr = [
@@ -71,7 +86,9 @@ for dics in arr:
            # kanha
 ```
 
-## 5. How to sum number in array
+## Exercise : 5
+
+How to sum number in array. Example : [5, 7, 8, 4, 3] = 27
 
 ```python
 arr = [5, 7, 8, 4, 3]
@@ -84,7 +101,9 @@ print(sum)
 # Output : 27
 ```
 
-## 6. Find even numbers
+## Exercise : 6
+
+Find even numbers. Example :
 
 ```python
 arr = [5, 7, 8, 4, 3]
@@ -96,7 +115,9 @@ for value in arr:
 # Output : 8 4
 ```
 
-## 8. Find Min numbers
+## Exercise : 7
+
+Find Min numbers. Example :
 
 ```python
 arr = [10, 40, 20, 4, 3]
@@ -110,7 +131,9 @@ print(min)
 # Output : 3
 ```
 
-## 9. Move one step to right
+## Exercise : 8
+
+Move one step to right
 
 ```python
 arr = [0, 0, 1, 0, 0]
@@ -125,7 +148,9 @@ print(arr)
 # Output : [0, 0, 0, 1, 0]
 ```
 
-## 10. Move on step to left
+## Exercise : 9
+
+Move on step to left
 
 ```python
 arr = [0, 0, 1, 0, 0]
@@ -140,7 +165,9 @@ print(arr)
 # Output : [0, 1, 0, 0, 0]
 ```
 
-## 11. Find Max numbers
+## Exercise : 10
+
+Find Max numbers
 
 ```python
 arr = [10, 40, 20, 4, 3]
@@ -154,7 +181,9 @@ print(max)
 # Output : 40
 ```
 
-## 12.How to Sum value in row
+## Exercise : 11
+
+How to Sum value in row
 
 ```python
 arr2D = [
