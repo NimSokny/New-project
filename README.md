@@ -33,6 +33,8 @@ print(reverseText)
 
 ## Exercise : 2
 
+### Code
+
 Find index of odd. Example : [5, 7, 8, 4, 3] = [0, 1, 4 ]
 
 ```python
@@ -47,6 +49,8 @@ print(indexOfOdd)
 ```
 
 ## Exercise : 3
+
+### Code
 
 Average of number in list. Example : [5, 7, 8, 4, 3] = 5.4  we take total of number / total of index.
 
@@ -66,6 +70,8 @@ print(average)
 ```
 
 ## Exercise : 4
+
+### Code
 
 Loop in Dictionary. Example : 
 
@@ -88,6 +94,8 @@ for dics in arr:
 
 ## Exercise : 5
 
+### Code
+
 How to sum number in array. Example : [5, 7, 8, 4, 3] = 27
 
 ```python
@@ -103,6 +111,8 @@ print(sum)
 
 ## Exercise : 6
 
+### Code
+
 Find even numbers. Example :
 
 ```python
@@ -116,6 +126,8 @@ for value in arr:
 ```
 
 ## Exercise : 7
+
+### Code
 
 Find Min numbers. Example :
 
@@ -132,6 +144,8 @@ print(min)
 ```
 
 ## Exercise : 8
+
+### Code
 
 Move one step to right
 
@@ -150,6 +164,8 @@ print(arr)
 
 ## Exercise : 9
 
+### Code
+
 Move on step to left
 
 ```python
@@ -167,6 +183,8 @@ print(arr)
 
 ## Exercise : 10
 
+### Code
+
 Find Max numbers
 
 ```python
@@ -182,6 +200,8 @@ print(max)
 ```
 
 ## Exercise : 11
+
+### Code
 
 How to Sum value in row
 
